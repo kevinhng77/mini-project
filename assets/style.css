@@ -1,0 +1,23 @@
+img {
+    width:500px
+}
+
+* {
+    font-size: 100%;
+    font-family: Arial;
+    background-color: lightblue;
+   }
+
+nav {
+    position:absolute;
+    top:0;
+    right:0;
+    font-size: 50px;
+}
+
+header {
+    position:fixed;
+    top:20%;
+    left:20%;
+
+}
