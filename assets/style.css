@@ -29,6 +29,10 @@ footer{
     background-color: darkblue;
 }
 
+.words{
+    font-size: larger;
+}
+
 form{
     background-color: green;
 }
