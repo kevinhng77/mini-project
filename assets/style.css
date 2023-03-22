@@ -1,5 +1,8 @@
 img {
-    width:500px
+    width:200px
+    border-width: thick;
+    border-style: solid;
+    border-color: white; 
 }
 
 * {
@@ -20,4 +23,12 @@ header {
     top:20%;
     left:20%;
 
+}
+
+footer{
+    background-color: darkblue;
+}
+
+form{
+    background-color: green;
 }
